@@ -7,7 +7,7 @@ Currently I am a rising junior at **[Stevens Institute of Technology](https://ww
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
     
-<div style="display: flex; width: 100%; justify-content: space-between;">
+<div style="display: flex; width: 70%; justify-content: space-between;">
 <div style="flex: 1;">
 
 ## When I'm not coding
