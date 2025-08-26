@@ -15,13 +15,7 @@ Currently a rising junior at **Stevens Institute of Technology**, actively worki
 - Working out 💪
 - Learning new languages 🌍
   - Currently learning:
-    
-    <a href="https://github.com/GianelliL">
-      <img height=50 align="center" src="assets/japanese-flag-round.png" />
-    </a>
-    <a href="https://github.com/GianelliL">
-      <img height=50 align="center" src="assets/chinese-flag-round.png" />
-    </a>
+    <a href="https://github.com/GianelliL"><img height=75 align="center" src="assets/japanese-flag-round.png" /></a> <a href="https://github.com/GianelliL"><img height=75 align="center" src="assets/chinese-flag-round.png" /></a>
     
 Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!
 
