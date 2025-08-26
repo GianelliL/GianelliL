@@ -21,6 +21,7 @@ Currently I am a rising junior at **[Stevens Institute of Technology](https://ww
 Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!
 
 📫 Feel free to reach out if you want to collaborate or just chat about tech!
+
 ![profile view count](https://komarev.com/ghpvc/?username=GianelliL)
 ---
 <a href="https://github.com/GianelliL"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=transparent" /></a> <a href="https://github.com/GianelliL"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianelliL&layout=donut&langs_count=8&card_width=320" /></a>
