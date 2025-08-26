@@ -21,6 +21,7 @@ Always eager to connect with like-minded individuals and contribute to advanceme
 
 📫 Feel free to reach out if you want to collaborate or just chat about tech!
 
+![Gianelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=radical)
 <!--
 **GianelliL/GianelliL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
