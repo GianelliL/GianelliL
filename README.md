@@ -7,9 +7,9 @@ Currently I am a rising junior at **[Stevens Institute of Technology](https://ww
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
     
-<table width="100%">
+<table width="100%" style="border: none;">
 <tr>
-<td width="70%">
+<td width="60%" style="border: none;">
 
 ## When I'm not coding
 - Creating art 🎨
@@ -20,9 +20,10 @@ Currently I am a rising junior at **[Stevens Institute of Technology](https://ww
     <a href="https://github.com/GianelliL"><img height=75 align="center" src="assets/japanese-flag-round.png" /></a> <a href="https://github.com/GianelliL"><img height=75 align="center" src="assets/chinese-flag-round.png" /></a>
 
 </td>
-<td width="30%">
+<td width="40%" style="border: none; text-align: right;">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkxMDVxczFmM3FzdXR0bm14ZDcwNHk3Z3JwYjl0NDVuNm90MDZxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkxMDVxczFmM3FzdXR0bm14ZDcwNHk3Z3JwYjl0NDVuNm90MDZxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif
+" width="150">
 
 </td>
 </tr>
