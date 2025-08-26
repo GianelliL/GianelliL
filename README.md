@@ -9,17 +9,18 @@ Currently a rising junior at **Stevens Institute of Technology**, actively worki
 - Artificial Intelligence  
 - Machine Learning
 - Quantitative Finance
-
+  
 ## When I'm not coding
 - Creating art 🎨
 - Working out 💪
 - Learning new languages 🌍
   - Currently learning:
+    
     <a href="https://github.com/GianelliL">
-      <img height=100 align="center" src="assets/japanese-flag-round.png" />
+      <img height=50 align="center" src="assets/japanese-flag-round.png" />
     </a>
     <a href="https://github.com/GianelliL">
-      <img height=100 align="center" src="assets/chinese-flag-round.png" />
+      <img height=50 align="center" src="assets/chinese-flag-round.png" />
     </a>
     
 Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!
