@@ -4,9 +4,8 @@ I'm deeply passionate about technology, particularly **Computer Science**, **Art
 
 Currently I am a rising junior at **[Stevens Institute of Technology](https://www.stevens.edu)**, actively working on projects and coursework that fuel my enthusiasm for tech.
   
-<table>
-<tr>
-<td valign="top">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
 
 ## When I'm not coding
 - Creating art 🎨
@@ -16,12 +15,11 @@ Currently I am a rising junior at **[Stevens Institute of Technology](https://ww
     
     <a href="https://github.com/GianelliL"><img height=75 align="center" src="assets/japanese-flag-round.png" /></a> <a href="https://github.com/GianelliL"><img height=75 align="center" src="assets/chinese-flag-round.png" /></a>
 
-</td>
-<td>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkxMDVxczFmM3FzdXR0bm14ZDcwNHk3Z3JwYjl0NDVuNm90MDZxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif" alt="Description" width="200">
-</td>
-</tr>
-</table>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkxMDVxczFmM3FzdXR0bm14ZDcwNHk3Z3JwYjl0NDVuNm90MDZxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif" alt="Description" width="200">
+  </div>
+</div>
 
 ## Lets Connect!
 Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!
