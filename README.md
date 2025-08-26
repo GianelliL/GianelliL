@@ -16,11 +16,12 @@ Currently a rising junior at **Stevens Institute of Technology**, actively worki
 - Learning new languages 🌍
     Currently learning:
     <a href="https://github.com/GianelliL">
-      <img height=200 align="center" src="assets/japanese-flag-round.png" />
+      <img height=100 align="center" src="assets/japanese-flag-round.png" />
     </a>
     <a href="https://github.com/GianelliL">
-      <img height=200 align="center" src="assets/chinese-flag-round.png" />
+      <img height=100 align="center" src="assets/chinese-flag-round.png" />
     </a>
+    
 Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!
 
 📫 Feel free to reach out if you want to collaborate or just chat about tech!
@@ -43,19 +44,5 @@ Always eager to connect with like-minded individuals and contribute to advanceme
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![One Piece Sunny](one-piece-sunny.png)
+![One Piece Sunny](assets/one-piece-sunny.png)
 
-<!--
-**GianelliL/GianelliL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
