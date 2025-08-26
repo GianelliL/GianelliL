@@ -2,7 +2,7 @@
 
 I'm deeply passionate about technology, particularly **Computer Science**, **Artificial Intelligence**, **Machine Learning**, and **Quantitative Finance**.
 
-Currently a rising junior at **Stevens Institute of Technology**, actively working on projects and coursework that fuel my enthusiasm for tech.
+Currently I am a rising junior at **[Stevens Institute of Technology](https://www.stevens.edu)**, actively working on projects and coursework that fuel my enthusiasm for tech.
 
 ## What I'm interested in
 - Computer Science
