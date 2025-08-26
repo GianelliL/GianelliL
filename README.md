@@ -23,7 +23,7 @@ Always eager to connect with like-minded individuals and contribute to advanceme
 📫 Feel free to reach out if you want to collaborate or just chat about tech!
 
 ---
-<a href="https://github.com/GianelliL"><img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=transparent" /></a> <a href="https://github.com/GianelliL"><img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianelliL&layout=donut&langs_count=8&card_width=320" /></a>
+<a href="https://github.com/GianelliL"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=transparent" /></a> <a href="https://github.com/GianelliL"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianelliL&layout=donut&langs_count=8&card_width=320" /></a>
 
 ## Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
