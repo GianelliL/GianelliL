@@ -21,7 +21,8 @@ Always eager to connect with like-minded individuals and contribute to advanceme
 
 📫 Feel free to reach out if you want to collaborate or just chat about tech!
 
-![Gianelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=radical)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=transparent" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianelliL&layout=compact&langs_count=8&card_width=320" />
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
