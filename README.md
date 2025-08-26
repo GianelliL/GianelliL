@@ -24,7 +24,7 @@ Always eager to connect with like-minded individuals and contribute to advanceme
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=transparent" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianelliL&layout=compact&langs_count=8&card_width=320" />
 
-## 💻 Tech Stack
+## Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
