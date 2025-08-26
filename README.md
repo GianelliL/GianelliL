@@ -24,7 +24,7 @@ Always eager to connect with like-minded individuals and contribute to advanceme
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/GianelliL">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianelliL&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianelliL&layout=donut&langs_count=8&card_width=320" />
 </a>
 
 ## Tech Stack
