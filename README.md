@@ -7,6 +7,8 @@ Currently I am a rising junior at **[Stevens Institute of Technology](https://ww
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkxMDVxczFmM3FzdXR0bm14ZDcwNHk3Z3JwYjl0NDVuNm90MDZxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif" width="200">
+
 ## When I'm not coding
 - Creating art 🎨
 - Working out 💪
@@ -14,12 +16,6 @@ Currently I am a rising junior at **[Stevens Institute of Technology](https://ww
   - Currently learning:
     
     <a href="https://github.com/GianelliL"><img height=75 align="center" src="assets/japanese-flag-round.png" /></a> <a href="https://github.com/GianelliL"><img height=75 align="center" src="assets/chinese-flag-round.png" /></a>
-
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkxMDVxczFmM3FzdXR0bm14ZDcwNHk3Z3JwYjl0NDVuNm90MDZxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif" alt="Description" width="200">
-  </div>
-</div>
 
 ## Lets Connect!
 Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!
