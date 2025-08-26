@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hey! 👋 I'm Gianelli
+
+I'm deeply passionate about technology, particularly **Computer Science**, **Artificial Intelligence**, **Machine Learning**, and **Quantitative Finance**.
+
+Currently a rising junior at **Stevens Institute of Technology**, actively working on projects and coursework that fuel my enthusiasm for tech.
+
+## What I'm interested in
+- Computer Science
+- Artificial Intelligence  
+- Machine Learning
+- Quantitative Finance
+
+## When I'm not coding
+- Creating art 🎨
+- Working out 💪
+- Learning new languages 🌍
+
+Always eager to connect with like-minded individuals and contribute to advancements in the tech industry!
+
+---
+
+📫 Feel free to reach out if you want to collaborate or just chat about tech!
 
 <!--
 **GianelliL/GianelliL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
