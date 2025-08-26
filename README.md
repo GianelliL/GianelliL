@@ -7,9 +7,8 @@ Currently I am a rising junior at **[Stevens Institute of Technology](https://ww
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkxMDVxczFmM3FzdXR0bm14ZDcwNHk3Z3JwYjl0NDVuNm90MDZxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif" width="200">
-
 ## When I'm not coding
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczkxMDVxczFmM3FzdXR0bm14ZDcwNHk3Z3JwYjl0NDVuNm90MDZxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRJ6rKh6lQW7S/giphy.gif" width="200">
 - Creating art 🎨
 - Working out 💪
 - Learning new languages 🌍
