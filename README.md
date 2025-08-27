@@ -23,7 +23,7 @@ Always eager to connect with like-minded individuals and contribute to advanceme
 
 ![profile view count](https://komarev.com/ghpvc/?username=gianelli-lagos)
 ---
-<a href="https://github.com/gianelli-lagos"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GianelliL&show_icons=true&theme=transparent" /></a> <a href="https://github.com/gianelli-lagos"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianelliL&layout=donut&langs_count=8&card_width=320" /></a>
+<a href="https://github.com/gianelli-lagos"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gianelli-lagos&show_icons=true&theme=transparent" /></a> <a href="https://github.com/gianelli-lagos"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gianelli-lagos&layout=donut&langs_count=8&card_width=320" /></a>
 
 ## Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
